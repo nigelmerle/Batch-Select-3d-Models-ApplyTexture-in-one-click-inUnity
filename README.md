@@ -1,4 +1,4 @@
-# Batch-Select-3d-Models-ApplyTexture-in-one-click-inUnity
+# Batch-Select-3d-Models-in-Unity-Asset-Folder-And-Apply-Material-Settings-in-one-click
 
 Tired of applying textures to so many models manually?
 
